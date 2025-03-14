@@ -1,9 +1,9 @@
-### Hi 👋, I'm LByn
+<h1 align="center">Hi 👋, I'm LByn</h1>
+<h3 align="center">Full Stack Development Engineer</h3>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=LByn96&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-😄I'm glad you clicked on my homepage
-
-🔭 I'm a full stack development engineer
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lbyn96&" alt="lbyn96" /></p>
