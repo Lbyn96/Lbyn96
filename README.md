@@ -31,7 +31,7 @@ Full-stack engineer with 5+ years of experience. I like building things that act
 
 ## 🚀 近期在做的事 | What I've Been Working On
 
-- 📐 **SaaS 教育管理平台**（TigerCampus）— React + GraphQL + AWS Lambda 全栈独立开发，覆盖排课、账单、CRM 等 20+ 模块  
+- 📐 **SaaS 教育管理平台**— React + GraphQL + AWS Lambda 全栈独立开发，覆盖排课、账单、CRM 等 20+ 模块  
   *Full-stack solo dev on a SaaS education platform — scheduling, billing, CRM, 20+ modules*
 
 - 🤖 **AI 自动排课服务** — 对接 AI Agent，处理潜在客户的排课对话与自动分配  
