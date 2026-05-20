@@ -54,16 +54,11 @@ Full-stack engineer with 5+ years of experience. I like building things that act
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=lbyn96&theme=tokyonight&hide_border=true&date_format=Y.n.j" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lbyn96&theme=tokyonight" />
+  <img src="metrics.svg" />
 </p>
 
 <p align="center">
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lbyn96&theme=tokyonight" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lbyn96&theme=tokyonight&utcOffset=8" />
 </p>
 
 ---
