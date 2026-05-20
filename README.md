@@ -57,4 +57,4 @@ Full-stack engineer with 5+ years of experience. I like building things that act
 
 ## 📫 Contact
 
-📧 lbyn96@outlook.com · 📱 +86 151-6111-9643
+📧 lbyn96@outlook.com 
