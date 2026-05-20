@@ -57,11 +57,6 @@ Full-stack engineer with 5+ years of experience. I like building things that act
   <img src="metrics.svg" />
 </p>
 
-<p align="center">
-  <img src="metrics.calendar.svg" />
-</p>
-
-
 ---
 
 ## 📫 联系我 | Contact
