@@ -1,0 +1,26 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 2 * * *"   # 每天凌晨 2 点（UTC），北京时间 10 点
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: lbyn96
+          filename: metrics.svg
+          template: classic
+          base: header, activity, community, repositories
+          base_indepth: yes
+          repositories_forks: yes
+          config_timezone: Asia/Shanghai
+          config_display: large
