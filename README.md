@@ -1,6 +1,5 @@
-# Hi, I'm LByn 👋 | 你好，我是 LByn
+# Hi, I'm LByn 👋
 
-全栈工程师，5 年以上经验。喜欢做真实能用的产品。  
 Full-stack engineer with 5+ years of experience. I like building things that actually work.
 
 ---
@@ -29,25 +28,22 @@ Full-stack engineer with 5+ years of experience. I like building things that act
 
 ---
 
-## 🚀 近期在做的事 | What I've Been Working On
+## 🚀 What I've Been Working On
 
-- 📐 **SaaS 教育管理平台** — React + GraphQL + AWS Lambda 全栈独立开发，覆盖排课、账单、CRM 等 20+ 模块  
-  *Full-stack solo dev on a SaaS education platform — scheduling, billing, CRM, 20+ modules*
+- 📐 **SaaS Education Platform**  — Full-stack solo dev: React + GraphQL + AWS Lambda, 20+ modules covering scheduling, billing, CRM and more
 
-- 🤖 **AI 自动排课服务** — 对接 AI Agent，处理潜在客户的排课对话与自动分配  
-  *AI-integrated scheduling service — processes lead conversations and auto-assigns slots*
+- 🤖 **AI Auto-Scheduling Service** — Flask endpoint triggering an AI Agent to process lead conversations and auto-assign time slots
 
-- 🔗 **WhatsApp CRM 同步** — SleekFlow 与业务系统双向状态同步  
-  *Bidirectional sync between SleekFlow WhatsApp CRM and internal appointment state*
+- 🔗 **WhatsApp CRM Sync** — Bidirectional sync between SleekFlow and internal appointment state via webhooks
 
 ---
 
-## 📌 关于我 | About Me
+## 📌 About Me
 
-- 💼 全远程工作，2022 年至今 | Fully remote since 2022
-- 🔧 习惯独立推进，从 Schema 设计到前端交付全程闭环 | End-to-end ownership, DB to UI
-- 🌱 对 AI 产品、SaaS 工具、Web3 方向感兴趣 | Interested in AI products, SaaS & Web3
-- ⚡ 结果导向，不喜欢无意义的流程 | Results-driven, low process overhead
+- 💼 Fully remote since 2022
+- 🔧 End-to-end ownership — DB schema to polished UI
+- 🌱 Interested in AI products, SaaS tools & Web3
+- ⚡ Results-driven, low process overhead
 
 ---
 
@@ -59,6 +55,6 @@ Full-stack engineer with 5+ years of experience. I like building things that act
 
 ---
 
-## 📫 联系我 | Contact
+## 📫 Contact
 
 📧 lbyn96@outlook.com · 📱 +86 151-6111-9643
