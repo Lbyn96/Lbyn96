@@ -52,14 +52,14 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── MPL-2.0
 </div>
-<div class="stdin"><span class="ps1-path">lbyn96@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>PYTHON      </b> [############        ] 58.08%
-<b>C           </b> [####                ] 19.01%
-<b>QML         </b> [###                 ] 11.31%
-<b>HTML        </b> [##                  ] 9.66 %
-<b>CSS         </b> [#                   ] 0.65 %
-<b>JAVASCRIPT  </b> [#                   ] 0.59 %
-<b>TEX         </b> [#                   ] 0.43 %
-<b>TSX         </b> [#                   ] 0.26 %
+<div class="stdin"><span class="ps1-path">lbyn96@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>PYTHON      </b> [###########         ] 52.60%
+<b>C           </b> [####                ] 17.22%
+<b>QML         </b> [###                 ] 10.24%
+<b>SIP         </b> [##                  ] 9.68 %
+<b>HTML        </b> [##                  ] 8.75 %
+<b>CSS         </b> [#                   ] 0.59 %
+<b>JAVASCRIPT  </b> [#                   ] 0.53 %
+<b>TEX         </b> [#                   ] 0.39 %
 </div>
 
 </pre>
